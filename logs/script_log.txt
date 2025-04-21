@@ -387,3 +387,24 @@ Please install numba to gain a massive speedup.
 (or if you prefer slow execution, set the flag numba=False to avoid this warning!)
 2025-04-21 21:57:47,720 - INFO - Set parameter NonConvex to value 2
 2025-04-21 21:58:30,768 - INFO - Set parameter NonConvex to value 2
+2025-04-21 22:11:40,050 - WARNING - Could not locate the 'ipopt' executable, which is required for solver ipopt
+2025-04-21 22:17:24,270 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 22:17:24,271 - INFO - Set parameter Username
+2025-04-21 22:17:24,271 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 22:17:24,274 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 22:17:24,375 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 22:17:49,335 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 22:18:10,013 - ERROR - Rule failed for Expression 'P_mismatch' with index 0:
+NameError: name 'neighbor_dict' is not defined
+2025-04-21 22:18:10,013 - ERROR - Constructing component 'P_mismatch' from data=None failed:
+    NameError: name 'neighbor_dict' is not defined
+2025-04-21 22:18:25,963 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
