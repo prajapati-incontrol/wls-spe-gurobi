@@ -34,7 +34,13 @@ def get_branch_parameters(net: pp.pandapowerNet):
         param_dict[branch][5] = float(np.imag(y_shunt[branch]))
 
 
-    return param_dict 
+    new_param_dict = dict(param_dict)  # make a copy so we don't modify while iterating
+
+    for (i, j), value in param_dict.items():
+        if (j, i) not in new_param_dict:
+            new_param_dict[(j, i)] = value
+
+    return new_param_dict 
 
 def get_branch_admittance(net: pp.pandapowerNet, 
                                  line_tuple: List[Tuple], 

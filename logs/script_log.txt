@@ -320,3 +320,70 @@ Please install numba to gain a massive speedup.
 Probably the execution is slow.
 Please install numba to gain a massive speedup.
 (or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:56:02,531 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 21:14:36,117 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 21:14:36,118 - INFO - Set parameter Username
+2025-04-21 21:14:36,118 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 21:14:36,121 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 21:14:36,140 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 21:14:36,154 - INFO - Set parameter Username
+2025-04-21 21:14:36,155 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 21:14:36,156 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 21:14:36,165 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 21:20:03,599 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 21:20:03,601 - INFO - Set parameter Username
+2025-04-21 21:20:03,601 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 21:20:03,602 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 21:20:32,691 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 21:20:32,692 - INFO - Set parameter Username
+2025-04-21 21:20:32,692 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 21:20:32,695 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 21:20:32,716 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 21:20:32,732 - INFO - Set parameter Username
+2025-04-21 21:20:32,733 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 21:20:32,734 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 21:20:32,745 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 21:48:15,740 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 21:48:15,740 - INFO - Set parameter Username
+2025-04-21 21:48:15,740 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 21:48:15,743 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 21:48:16,059 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 21:48:17,111 - INFO - Set parameter Username
+2025-04-21 21:48:17,112 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 21:48:17,113 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 21:48:19,197 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 21:52:56,941 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 21:52:56,945 - INFO - Set parameter Username
+2025-04-21 21:52:56,945 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 21:52:56,946 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 21:52:58,035 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 21:53:00,036 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 21:57:47,720 - INFO - Set parameter NonConvex to value 2
+2025-04-21 21:58:30,768 - INFO - Set parameter NonConvex to value 2
