@@ -1,0 +1,322 @@
+2025-04-19 10:56:17,920 - INFO - Set parameter LogToConsole to value 0
+2025-04-19 10:56:17,920 - INFO - Set parameter Username
+2025-04-19 10:56:17,920 - INFO - Set parameter LicenseID to value 2654438
+2025-04-19 10:56:17,922 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-19 10:56:17,922 - INFO - Gurobi Optimizer version 12.0.1 build v12.0.1rc0 (mac64[arm] - Darwin 24.4.0 24E248)
+2025-04-19 10:56:17,922 - INFO - 
+2025-04-19 10:56:17,922 - INFO - CPU model: Apple M4
+2025-04-19 10:56:17,922 - INFO - Thread count: 10 physical cores, 10 logical processors, using up to 10 threads
+2025-04-19 10:56:17,922 - INFO - 
+2025-04-19 10:56:17,922 - INFO - Non-default parameters:
+2025-04-19 10:56:17,922 - INFO - LogToConsole  0
+2025-04-19 10:56:17,922 - INFO - 
+2025-04-19 10:56:17,922 - INFO - Optimize a model with 2 rows, 3 columns and 5 nonzeros
+2025-04-19 10:56:17,922 - INFO - Model fingerprint: 0x98886187
+2025-04-19 10:56:17,923 - INFO - Variable types: 0 continuous, 3 integer (3 binary)
+2025-04-19 10:56:17,923 - INFO - Coefficient statistics:
+2025-04-19 10:56:17,923 - INFO -   Matrix range     [1e+00, 3e+00]
+2025-04-19 10:56:17,923 - INFO -   Objective range  [1e+00, 2e+00]
+2025-04-19 10:56:17,923 - INFO -   Bounds range     [1e+00, 1e+00]
+2025-04-19 10:56:17,923 - INFO -   RHS range        [1e+00, 4e+00]
+2025-04-19 10:56:17,923 - INFO - Found heuristic solution: objective 2.0000000
+2025-04-19 10:56:17,923 - INFO - Presolve removed 2 rows and 3 columns
+2025-04-19 10:56:17,923 - INFO - Presolve time: 0.00s
+2025-04-19 10:56:17,923 - INFO - Presolve: All rows and columns removed
+2025-04-19 10:56:17,923 - INFO - 
+2025-04-19 10:56:17,923 - INFO - Explored 0 nodes (0 simplex iterations) in 0.00 seconds (0.00 work units)
+2025-04-19 10:56:17,923 - INFO - Thread count was 1 (of 10 available processors)
+2025-04-19 10:56:17,923 - INFO - 
+2025-04-19 10:56:17,923 - INFO - Solution count 2: 3 2 
+2025-04-19 10:56:17,923 - INFO - 
+2025-04-19 10:56:17,923 - INFO - Optimal solution found (tolerance 1.00e-04)
+2025-04-19 10:56:17,923 - INFO - Best objective 3.000000000000e+00, best bound 3.000000000000e+00, gap 0.0000%
+2025-04-19 11:00:01,773 - INFO - Set parameter Username
+2025-04-19 11:00:01,774 - INFO - Set parameter LicenseID to value 2654438
+2025-04-19 11:00:01,775 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-19 16:35:50,717 - INFO - Set parameter LogToConsole to value 0
+2025-04-19 16:35:50,717 - INFO - Set parameter Username
+2025-04-19 16:35:50,717 - INFO - Set parameter LicenseID to value 2654438
+2025-04-19 16:35:50,720 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 11:47:18,083 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 11:47:18,084 - INFO - Set parameter Username
+2025-04-21 11:47:18,084 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 11:47:18,091 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 11:50:51,282 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 11:52:51,052 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 11:52:59,561 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 11:56:09,471 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 12:07:12,895 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 12:26:44,270 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 12:26:44,282 - INFO - Set parameter Username
+2025-04-21 12:26:44,282 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 12:26:44,283 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 12:26:44,288 - INFO - Gurobi Optimizer version 12.0.1 build v12.0.1rc0 (mac64[arm] - Darwin 24.4.0 24E263)
+2025-04-21 12:26:44,289 - INFO - 
+2025-04-21 12:26:44,289 - INFO - CPU model: Apple M4
+2025-04-21 12:26:44,289 - INFO - Thread count: 10 physical cores, 10 logical processors, using up to 10 threads
+2025-04-21 12:26:44,289 - INFO - 
+2025-04-21 12:26:44,289 - INFO - Optimize a model with 0 rows, 8 columns and 0 nonzeros
+2025-04-21 12:26:44,290 - INFO - Model fingerprint: 0xb7d9d9c2
+2025-04-21 12:26:44,290 - INFO - Model has 8 quadratic objective terms
+2025-04-21 12:26:44,290 - INFO - Coefficient statistics:
+2025-04-21 12:26:44,290 - INFO -   Matrix range     [0e+00, 0e+00]
+2025-04-21 12:26:44,291 - INFO -   Objective range  [4e-01, 2e+01]
+2025-04-21 12:26:44,291 - INFO -   QObjective range [2e+00, 2e+01]
+2025-04-21 12:26:44,291 - INFO -   Bounds range     [9e-01, 1e+00]
+2025-04-21 12:26:44,291 - INFO -   RHS range        [0e+00, 0e+00]
+2025-04-21 12:26:44,293 - INFO - Presolve removed 0 rows and 8 columns
+2025-04-21 12:26:44,294 - INFO - Presolve time: 0.00s
+2025-04-21 12:26:44,294 - INFO - Presolve: All rows and columns removed
+2025-04-21 12:26:44,294 - INFO - 
+2025-04-21 12:26:44,295 - INFO - Barrier solved model in 0 iterations and 0.00 seconds (0.00 work units)
+2025-04-21 12:26:44,295 - INFO - Optimal objective 7.77156117e-15
+2025-04-21 12:28:22,676 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 12:28:22,689 - INFO - Gurobi Optimizer version 12.0.1 build v12.0.1rc0 (mac64[arm] - Darwin 24.4.0 24E263)
+2025-04-21 12:28:22,690 - INFO - 
+2025-04-21 12:28:22,690 - INFO - CPU model: Apple M4
+2025-04-21 12:28:22,690 - INFO - Thread count: 10 physical cores, 10 logical processors, using up to 10 threads
+2025-04-21 12:28:22,690 - INFO - 
+2025-04-21 12:28:22,691 - INFO - Optimize a model with 0 rows, 8 columns and 0 nonzeros
+2025-04-21 12:28:22,691 - INFO - Model fingerprint: 0xce0680e8
+2025-04-21 12:28:22,691 - INFO - Model has 8 quadratic objective terms
+2025-04-21 12:28:22,691 - INFO - Coefficient statistics:
+2025-04-21 12:28:22,691 - INFO -   Matrix range     [0e+00, 0e+00]
+2025-04-21 12:28:22,692 - INFO -   Objective range  [4e-01, 2e+00]
+2025-04-21 12:28:22,692 - INFO -   QObjective range [2e+00, 2e+00]
+2025-04-21 12:28:22,692 - INFO -   Bounds range     [9e-01, 1e+00]
+2025-04-21 12:28:22,692 - INFO -   RHS range        [0e+00, 0e+00]
+2025-04-21 12:28:22,692 - INFO - Presolve removed 0 rows and 8 columns
+2025-04-21 12:28:22,693 - INFO - Presolve time: 0.00s
+2025-04-21 12:28:22,693 - INFO - Presolve: All rows and columns removed
+2025-04-21 12:28:22,693 - INFO - 
+2025-04-21 12:28:22,693 - INFO - Barrier solved model in 0 iterations and 0.00 seconds (0.00 work units)
+2025-04-21 12:28:22,693 - INFO - Optimal objective -1.11022302e-16
+2025-04-21 12:31:32,440 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 12:31:32,441 - INFO - Set parameter Username
+2025-04-21 12:31:32,441 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 12:31:32,441 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 12:31:37,182 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 12:47:35,896 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 12:47:35,924 - INFO - Gurobi Optimizer version 12.0.1 build v12.0.1rc0 (mac64[arm] - Darwin 24.4.0 24E263)
+2025-04-21 12:47:35,924 - INFO - 
+2025-04-21 12:47:35,924 - INFO - CPU model: Apple M4
+2025-04-21 12:47:35,925 - INFO - Thread count: 10 physical cores, 10 logical processors, using up to 10 threads
+2025-04-21 12:47:35,925 - INFO - 
+2025-04-21 12:47:35,926 - INFO - Optimize a model with 0 rows, 8 columns and 0 nonzeros
+2025-04-21 12:47:35,926 - INFO - Model fingerprint: 0xce0680e8
+2025-04-21 12:47:35,926 - INFO - Model has 8 quadratic objective terms
+2025-04-21 12:47:35,926 - INFO - Coefficient statistics:
+2025-04-21 12:47:35,927 - INFO -   Matrix range     [0e+00, 0e+00]
+2025-04-21 12:47:35,927 - INFO -   Objective range  [4e-01, 2e+00]
+2025-04-21 12:47:35,927 - INFO -   QObjective range [2e+00, 2e+00]
+2025-04-21 12:47:35,928 - INFO -   Bounds range     [9e-01, 1e+00]
+2025-04-21 12:47:35,928 - INFO -   RHS range        [0e+00, 0e+00]
+2025-04-21 12:47:35,929 - INFO - Presolve removed 0 rows and 8 columns
+2025-04-21 12:47:35,929 - INFO - Presolve time: 0.00s
+2025-04-21 12:47:35,930 - INFO - Presolve: All rows and columns removed
+2025-04-21 12:47:35,930 - INFO - 
+2025-04-21 12:47:35,931 - INFO - Barrier solved model in 0 iterations and 0.01 seconds (0.00 work units)
+2025-04-21 12:47:35,931 - INFO - Optimal objective -1.11022302e-16
+2025-04-21 12:53:21,506 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 12:53:21,508 - INFO - Set parameter Username
+2025-04-21 12:53:21,508 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 12:53:21,508 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 12:53:23,067 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 13:27:40,343 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 16:37:10,679 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 17:12:25,559 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 17:12:42,255 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 17:15:03,369 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 17:15:03,370 - INFO - Set parameter Username
+2025-04-21 17:15:03,370 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 17:15:03,370 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 17:15:04,197 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 17:29:29,341 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 18:31:35,053 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:32:00,129 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 20:32:00,129 - INFO - Set parameter Username
+2025-04-21 20:32:00,129 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:32:00,133 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:32:01,286 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:32:03,036 - INFO - Set parameter Username
+2025-04-21 20:32:03,037 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:32:03,039 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:32:04,165 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:33:36,342 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 20:33:36,342 - INFO - Set parameter Username
+2025-04-21 20:33:36,342 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:33:36,345 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:33:36,517 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:33:40,509 - INFO - Set parameter Username
+2025-04-21 20:33:40,509 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:33:40,510 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:33:42,538 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:37:37,809 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 20:37:37,809 - INFO - Set parameter Username
+2025-04-21 20:37:37,810 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:37:37,812 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:37:37,831 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:37:37,844 - INFO - Set parameter Username
+2025-04-21 20:37:37,845 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:37:37,845 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:37:37,851 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:37:48,306 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:38:30,384 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 20:38:30,384 - INFO - Set parameter Username
+2025-04-21 20:38:30,384 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:38:30,387 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:38:30,406 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:38:30,422 - INFO - Set parameter Username
+2025-04-21 20:38:30,422 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:38:30,422 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:38:30,429 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:45:33,931 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 20:45:33,931 - INFO - Set parameter Username
+2025-04-21 20:45:33,931 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:45:33,934 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:45:34,075 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:46:16,419 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 20:46:16,420 - INFO - Set parameter Username
+2025-04-21 20:46:16,420 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:46:16,423 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:46:16,440 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:47:52,971 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 20:47:52,971 - INFO - Set parameter Username
+2025-04-21 20:47:52,971 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:47:52,975 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:47:53,083 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:47:54,740 - INFO - Set parameter Username
+2025-04-21 20:47:54,740 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:47:54,741 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:50:04,682 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 20:50:04,683 - INFO - Set parameter Username
+2025-04-21 20:50:04,683 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:50:04,686 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:50:04,707 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:50:05,211 - INFO - Set parameter Username
+2025-04-21 20:50:05,211 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:50:05,212 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:50:05,690 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:50:23,558 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 20:50:23,558 - INFO - Set parameter Username
+2025-04-21 20:50:23,558 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:50:23,561 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:50:23,580 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:50:23,594 - INFO - Set parameter Username
+2025-04-21 20:50:23,594 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:50:23,595 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:50:23,600 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:50:38,638 - INFO - Set parameter LogToConsole to value 0
+2025-04-21 20:50:38,638 - INFO - Set parameter Username
+2025-04-21 20:50:38,638 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:50:38,641 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:50:38,661 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
+2025-04-21 20:50:38,676 - INFO - Set parameter Username
+2025-04-21 20:50:38,677 - INFO - Set parameter LicenseID to value 2654438
+2025-04-21 20:50:38,677 - INFO - Academic license - for non-commercial use only - expires 2026-04-19
+2025-04-21 20:50:38,682 - WARNING - numba cannot be imported and numba functions are disabled.
+Probably the execution is slow.
+Please install numba to gain a massive speedup.
+(or if you prefer slow execution, set the flag numba=False to avoid this warning!)
