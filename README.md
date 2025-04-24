@@ -1,4 +1,4 @@
-# Weighted Least Squares State Estimation for Power Grids (pandapower-based)
+# Weighted Least Squares State Estimation for Power Grids (pandapower-based) (Ongoing)
 
 This repository provides an implementation of **Weighted Least Squares (WLS) State Estimation** for electrical power grids modeled using [**pandapower**](https://www.pandapower.org/). The primary contribution of this work is a custom integration of WLS State Estimation into the pandapower framework, allowing users to perform realistic and scalable state estimation directly on pandapower networks. The implementation focuses on clarity, modularity, and extendability—suitable for both academic use and practical experimentation.
 
